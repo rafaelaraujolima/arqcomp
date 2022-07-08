@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/sc_export.dir/main.cpp.o -o sc_export  -Wl,-rpath,/home/rafael/Documentos/TFSim/systemc-2.3.3/build/src ../../../../src/libsystemc.so.2.3.3 
